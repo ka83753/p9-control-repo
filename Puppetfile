@@ -4,6 +4,10 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs-stdlib', '6.5.0'
 mod 'puppetlabs-concat', '6.4.0'
 mod 'puppetlabs-inifile', '4.4.0'
+mod 'puppetlabs-ntp', '8.5.0'
+mod 'puppetlabs-translate', '2.2.0'
+
+
 
 
 # Modules from Git

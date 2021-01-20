@@ -7,6 +7,9 @@ mod 'puppetlabs-inifile', '4.4.0'
 mod 'puppetlabs-ntp', '8.5.0'
 mod 'puppetlabs-translate', '2.2.0'
 
+# Module containing tasks to install Nessus agents for Tenable scans
+mod 'nessus_agent_tasks',
+:git => 'https://github.com/kinners00/nessus_agent_tasks'
 
 
 
